@@ -1,24 +1,24 @@
 {
     "users": [
-        {
-            "id": 1,
-            "nombre": "v.rosendo",
-            "clave": "J.12mm8",
-            "id_rol": 1
-        },
-        {
-            "id": 2,
-            "nombre": "j.baez",
-            "clave": "B.34vf8",
-            "id_rol": 2
-        },
-        {
-            "id": 3,
-            "nombre": "a.diaz",
-            "clave": "C.54yt78",
-            "id_rol": 2
-        }
-    ],
+  {
+    "id": 1,
+    "nombre": "v.rosendo2",
+    "clave": "J.12mm9",
+    "id_rol": 1
+  },
+  {
+    "id": 2,
+    "nombre": "j.baez2",
+    "clave": "B.34vf0",
+    "id_rol": 2
+  },
+  {
+    "id": 3,
+    "nombre": "a.diaz2",
+    "clave": "C.54yt70",
+    "id_rol": 2
+  }
+],
     "autos": [
         {
             "patente": "FF-HH-22",
